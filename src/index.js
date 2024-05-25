@@ -1,4 +1,4 @@
 import './style.css';
 
-import pageLoad from'./pageLoad';
-pageLoad()
+import initialLoad from'./pageLoad';
+initialLoad()
